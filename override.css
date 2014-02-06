@@ -1,0 +1,39 @@
+#background, .top-bar, .top-bar-section ul li a {
+  background-color: white !important;
+  color: black !important;
+  font-family: "Arial Black";
+}
+
+.top-bar-section ul li a:hover {
+  color: white !important;
+  background-color: black !important;
+}
+
+/*.row {
+  background-color: orange;
+}*/
+body {
+  background-image:url('background.jpg');
+}
+
+.proj_tit {
+  background-color: white;
+  color: gray;
+  text-align: center;
+  padding: 7px 0px;
+  font-size: 0.8em;
+}
+.name {
+  padding-top: 7px;
+}
+
+.orange_font {
+  color: red;
+}
+h1 {
+  color: white;
+  font-family: "Arial Black";
+  margin-bottom: 60px;
+  margin-top: 30px;
+  font-size: 2em;
+}
